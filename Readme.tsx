@@ -1,1 +1,1 @@
-This is the notebook consisting of the code used for the dissertation research and contains every code and findings, as well as the final artefact
+Dissertation_Notebook holds all of the coding and results that were accumulated during the dissertation paper, clicking on the notebook will open every code on Github, but users also have the ability to port it to Google Colab and use it themselves by clicking the "Open in Colab" button above the beginning of the code
